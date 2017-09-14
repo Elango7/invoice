@@ -4,7 +4,7 @@
 # Set your URL without trailing slash here, e.g. http://your-domain.com
 # If you use a subdomain, use http://subdomain.your-domain.com
 # If you use a subfolder, use http://your-domain.com/subfolder
-IP_URL=http://lintinvoice-sampleelangoprj.rhcloud.com/
+IP_URL=http://mail.lintcloud.com/account/
 
 # Having problems? Enable debug by changing the value to 'true' to enable advanced logging
 ENABLE_DEBUG=false
